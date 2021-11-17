@@ -5,3 +5,5 @@ Estoy iniciando en la clase de git
 Ahora he agregado esta primera línea.
 
 Aqui empieza la vida profesional de aldo.
+
+Empezamos los cursos de programación.
